@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Share Theme Plugin
  * Plugin URI:        https://github.com/ohhmymaill/share-theme-plugin
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Shortcode for Share theme 
  * Version:           1.0.0
  * Author:            MH-Theme
  * Author URI:        http://mh-theme.com/
